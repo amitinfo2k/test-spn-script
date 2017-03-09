@@ -5,7 +5,7 @@ Summary:  HA Proxy bake image
 
 License:  GPL
 URL:   None
-Source:  sxp-haproxy.tar
+Source:  sxp-haproxy
 #BuildRoot: /var/lib/jenkins/workspace/Build\ RPM/rpmbuild/%{name}-%{version}
 
 %description
