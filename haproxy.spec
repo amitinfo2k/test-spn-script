@@ -11,9 +11,8 @@ Source:  sxp-haproxy
 %description
 HA Proxy bake image
 
-%prep
-%setup -n sxp-haproxy
-
+#%prep
+#%setup -n sxp-haproxy
 
 %install
 rm -rf $RPM_BUILD_ROOT
