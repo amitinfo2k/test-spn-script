@@ -1,7 +1,7 @@
 Name: sxp-haproxy
 Version:  %{version}
 Release:  %{release}%{?dist}
-Summary:  HA Proxy bake image
+Summary:  HA Proxy image
 
 License:  GPL
 URL:   None
@@ -9,7 +9,7 @@ Source:  sxp-haproxy
 #BuildRoot: /var/lib/jenkins/workspace/Build\ RPM/rpmbuild/%{name}-%{version}
 
 %description
-HA Proxy bake image
+HA Proxy image
 
 #%prep
 #%setup -n sxp-haproxy
