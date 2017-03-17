@@ -6,7 +6,6 @@ Summary:  HA Proxy image
 License:  GPL
 URL:   None
 Source:  sxp-haproxy
-#BuildRoot: /var/lib/jenkins/workspace/Build\ RPM/rpmbuild/%{name}-%{version}
 
 %description
 HA Proxy image
